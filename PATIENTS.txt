@@ -1,3 +1,0 @@
-Ahmed    23 Severe   Heart
-mohammed 45 Mild     Muscle
-Ali      30 Critical Skin
